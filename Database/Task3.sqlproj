@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>Database</Name>
+    <Name>Task3</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{c9db542c-4d86-4df4-a9e3-7818eff2c340}</ProjectGuid>
@@ -59,10 +59,10 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Suppliers.sql" />
+    <None Include="Suppliers.sql" />
     <None Include="Categories.sql" />
-    <Build Include="Products.sql" />
-    <Build Include="Queries.sql" />
+    <None Include="Products.sql" />
+    <None Include="Queries.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Database.refactorlog" />
