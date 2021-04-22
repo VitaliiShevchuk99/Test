@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{52CBE5D3-76AA-457B-95EC-28ABA368A7BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "TestProject\Task2.csproj", "{52CBE5D3-76AA-457B-95EC-28ABA368A7BC}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{C9DB542C-4D86-4DF4-A9E3-7818EFF2C340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{76A94F9E-92F5-43FC-8388-84D170622102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Task1\Task1.csproj", "{76A94F9E-92F5-43FC-8388-84D170622102}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
