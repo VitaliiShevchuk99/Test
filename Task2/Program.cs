@@ -17,6 +17,7 @@ namespace TestProject
                                           new Rectangle(side,height)};
 
             shapes.Sort();
+            Console.WriteLine("a");
         }
     }
 }

@@ -9,8 +9,8 @@ namespace TestProject
 {
     class Shape:IComparable
     {
-        private double Side { get; set; }
-        private double Area { get; set; }
+        public double Side { get; set; }
+        public double Area { get; set; }
 
         public int CompareTo(object obj)
         {
@@ -21,7 +21,7 @@ namespace TestProject
 
     class Triangle: Shape
     {
-        private double Area { get; set; }
+        
         private double Base { get; set; }
         private double Heigth { get; set; }
         public Triangle(double bas, double heigth )
@@ -33,7 +33,6 @@ namespace TestProject
     }
     class Rectangle : Shape
     {
-        private double Area { get; set; }
         private double Width { get; set; }
         private double Heigth { get; set; }
         public Rectangle(double bas, double heigth)
@@ -45,7 +44,7 @@ namespace TestProject
     }
     class Square : Shape
     {
-        private double Area { get; set; }
+
         private double Side { get; set; }
         public Square(double side)
         {
@@ -56,7 +55,7 @@ namespace TestProject
     class Circle : Shape
     {
         public const double pi = System.Math.PI;
-        private double Area { get; set; }
+
         private double Radius { get; set; }
         public Circle(double radius)
         {

@@ -1,0 +1,16 @@
+I:\TestProject\Task2\bin\Debug\net5.0\Task2.exe
+I:\TestProject\Task2\bin\Debug\net5.0\Task2.deps.json
+I:\TestProject\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+I:\TestProject\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+I:\TestProject\Task2\bin\Debug\net5.0\Task2.dll
+I:\TestProject\Task2\bin\Debug\net5.0\ref\Task2.dll
+I:\TestProject\Task2\bin\Debug\net5.0\Task2.pdb
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.csprojAssemblyReference.cache
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.dll
+I:\TestProject\Task2\obj\Debug\net5.0\ref\Task2.dll
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.pdb
+I:\TestProject\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
